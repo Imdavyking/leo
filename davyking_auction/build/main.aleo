@@ -1,4 +1,4 @@
-program auction.aleo;
+program davyking_auction.aleo;
 
 record Bid:
     owner as address.private;
